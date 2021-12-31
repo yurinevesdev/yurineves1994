@@ -1,4 +1,4 @@
-### Olá! eu sou o Yuri Neves ✌️
+### Olá! eu sou o Yuri Neves, eterno estudando de programação e tecnologias ✌️
 
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando Javascript/Node.js
