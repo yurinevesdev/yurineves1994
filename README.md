@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando Javascript/Node.js
-- 📫 Contate-me no e-mail: yurineves1934@gmail.com
 
 <div align="center">
   <a href="https://github.com/yurineves1994">
