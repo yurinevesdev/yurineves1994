@@ -1,7 +1,7 @@
 ### Olá! eu sou o Yuri Neves, eterno estudando de programação e tecnologias ✌️
 
 - 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando Javascript/Node.js
+- 🌱 Estudando React/Javascript/Node.js
 
 <div align="center">
   <a href="https://github.com/yurineves1994">
